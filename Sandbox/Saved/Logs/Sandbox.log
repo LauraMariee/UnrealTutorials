@@ -1374,3 +1374,20 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.07-09.47.12:917][803]LogContentValidation: Display: Validating Blueprint /Game/Core/Taycan_StateMachine.Taycan_StateMachine
 [2021.09.07-09.47.14:101][872]BlueprintLog: New page: Compile Taycan_StateMachine
 [2021.09.07-09.47.14:128][872]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2021.09.07-09.58.01:911][520]LogContentBrowser: Deferred new asset file creation: NewUserDefinedEnum
+[2021.09.07-09.58.01:919][520]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
+[2021.09.07-09.58.20:408][630]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> E_GameState
+[2021.09.07-09.58.20:409][630]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2021.09.07-09.58.21:174][674]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Enums/E_GameState.E_GameState
+[2021.09.07-09.58.24:208][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enums/E_GameState" FILE="../../../../../../Users/Laura/Documents/UnrealTutorials/Sandbox/Content/Enums/E_GameState.uasset" SILENT=true
+[2021.09.07-09.58.24:209][839]LogSavePackage: Moving '../../../../../../Users/Laura/Documents/UnrealTutorials/Sandbox/Saved/E_GameState3B3427D64FF43225416BAF8C5FEE1715.tmp' to '../../../../../../Users/Laura/Documents/UnrealTutorials/Sandbox/Content/Enums/E_GameState.uasset'
+[2021.09.07-09.58.24:224][839]AssetCheck: New page: Asset Save: E_GameState
+[2021.09.07-09.58.24:224][839]LogContentValidation: Display: Validating UserDefinedEnum /Game/Enums/E_GameState.E_GameState
+[2021.09.07-09.58.55:542][707]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enums/E_GameState" FILE="../../../../../../Users/Laura/Documents/UnrealTutorials/Sandbox/Content/Enums/E_GameState.uasset" SILENT=true
+[2021.09.07-09.58.55:542][707]LogSavePackage: Moving '../../../../../../Users/Laura/Documents/UnrealTutorials/Sandbox/Saved/E_GameState284ECF644EE4039F4720628DD9BB8BEF.tmp' to '../../../../../../Users/Laura/Documents/UnrealTutorials/Sandbox/Content/Enums/E_GameState.uasset'
+[2021.09.07-09.58.55:553][707]AssetCheck: New page: Asset Save: E_GameState
+[2021.09.07-09.58.55:553][707]LogContentValidation: Display: Validating UserDefinedEnum /Game/Enums/E_GameState.E_GameState
+[2021.09.07-09.59.04:042][194]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enums/E_GameState" FILE="../../../../../../Users/Laura/Documents/UnrealTutorials/Sandbox/Content/Enums/E_GameState.uasset" SILENT=true
+[2021.09.07-09.59.04:043][194]LogSavePackage: Moving '../../../../../../Users/Laura/Documents/UnrealTutorials/Sandbox/Saved/E_GameStateDBF3BB84440ABE0042B8DD9D358C9DF5.tmp' to '../../../../../../Users/Laura/Documents/UnrealTutorials/Sandbox/Content/Enums/E_GameState.uasset'
+[2021.09.07-09.59.04:054][194]AssetCheck: New page: Asset Save: E_GameState
+[2021.09.07-09.59.04:054][194]LogContentValidation: Display: Validating UserDefinedEnum /Game/Enums/E_GameState.E_GameState
